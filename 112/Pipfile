@@ -7,7 +7,7 @@ verify_ssl = true
 ipykernel = "*"
 
 [packages]
-django = "==2.2"
+django = "==2.2.13"
 django-tastypie = "*"
 
 [requires]
